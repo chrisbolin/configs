@@ -1,0 +1,5 @@
+[user]
+	name = Chris Bolin
+	email = bolin.chris@gmail.com
+[push]
+	default = current
