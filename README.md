@@ -8,7 +8,7 @@ OR
 
 b. Add this line to `~/.bash_profile`:
 ```bash
-source /ers/chris/repos/configs/bash.sh
+source /Users/chris/repos/configs/bash.sh
 ```
 
 ## vs-code.json
