@@ -1,6 +1,7 @@
 {
   "editor.fontSize": 14,
   "window.zoomLevel": 1,
+  "terminal.integrated.shell.osx": "/bin/bash", 
   "editor.quickSuggestions": {
     "other": true,
     "comments": true,
