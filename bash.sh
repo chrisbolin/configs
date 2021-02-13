@@ -1,6 +1,3 @@
-# external configs
-source ./bash.git.sh
-
 # bash profile
 alias sourcebashprofile='source ~/.bash_profile'
 alias editbashprofile='code ~/.bash_profile'
