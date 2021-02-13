@@ -37,7 +37,6 @@ if has ("gui_running")
 else
 	set background=dark
     set t_Co=256
-    colorscheme twilight256
 endif
 
 augroup md

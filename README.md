@@ -13,6 +13,7 @@ chsh -s /bin/bash
 Add this line to `.bash_profile`:
 ```bash
 source /Users/chris/repos/configs/bash.sh
+source /Users/chris/repos/configs/bash.git.sh
 ```
 
 ## vs-code.json
@@ -25,4 +26,11 @@ Overwrite `.gitconfig`.
 
 ```bash
 cp git ~/.gitconfig
+``
+
+## vim
+
+```bash
+cp .vimrc ~
 ```
+
