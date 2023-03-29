@@ -39,7 +39,7 @@ Overwrite `.gitconfig`.
 
 ```bash
 cp ~/repos/confits/git ~/.gitconfig
-``
+```
 
 ## vim
 
