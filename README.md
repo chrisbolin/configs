@@ -8,6 +8,14 @@ Don't forget to [change your default shell](https://www.howtogeek.com/444596/how
 chsh -s /bin/bash
 ```
 
+## Clone this repo
+
+```bash
+mkdir ~/repos/
+cd ~/repos/
+git clone https://github.com/chrisbolin/configs
+```
+
 ## bash.sh
 
 Add this line to `.bash_profile`:
