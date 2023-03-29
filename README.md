@@ -38,7 +38,7 @@ These are git options, not aliases (which are covered in `bash.git.sh` above.
 Overwrite `.gitconfig`.
 
 ```bash
-cp ~/repos/confits/git ~/.gitconfig
+cp ~/repos/configs/git ~/.gitconfig
 ```
 
 ## vim
