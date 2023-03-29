@@ -3,3 +3,5 @@
 	email = bolin.chris@gmail.com
 [push]
 	default = current
+[pull]
+	rebase = false
