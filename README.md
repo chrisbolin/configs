@@ -30,7 +30,9 @@ exec bash -l
 
 ## vs-code.json
 
-Overwrite `~/Library/Application\ Support/Code/User/settings.json`.
+```bash
+cp ~/repos/configs/vs-code.json ~/Library/Application\ Support/Code/User/settings.json
+```
 
 ## git
 
