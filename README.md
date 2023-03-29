@@ -1,4 +1,4 @@
-# How to Use
+# Using configs
 
 ## New Mac?
 
@@ -49,3 +49,14 @@ cp ~/repos/configs/git ~/.gitconfig
 cp .vimrc ~
 ```
 
+# Updating configs
+
+To update git with new config changes, just reverse the `cp` commands above:
+
+```bash
+cp ~/Library/Application\ Support/Code/User/settings.json ~/repos/configs/vs-code.json
+```
+
+```bash
+cp ~/.gitconfig ~/repos/configs/git
+```
