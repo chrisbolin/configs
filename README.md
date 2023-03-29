@@ -2,11 +2,15 @@
 
 ## New Mac?
 
-Don't forget to [change your default shell](https://www.howtogeek.com/444596/how-to-change-the-default-shell-to-bash-in-macos-catalina/).
+1. Don't forget to [change your default shell](https://www.howtogeek.com/444596/how-to-change-the-default-shell-to-bash-in-macos-catalina/).
 
 ```bash
 chsh -s /bin/bash
 ```
+
+2. Install git on MacOS just by running `git` in the terminal.
+
+3. [Add your ssh key to Github](https://duckduckgo.com/?q=github+add+ssh+key&ia=web)
 
 ## Clone this repo
 
