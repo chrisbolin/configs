@@ -22,10 +22,10 @@ git clone https://github.com/chrisbolin/configs
 
 ## bash.sh
 
-Add this line to `.bash_profile`:
 ```bash
-source /Users/chris/repos/configs/bash.sh
-source /Users/chris/repos/configs/bash.git.sh
+echo "source ~/repos/configs/bash.sh" > ~/.bash_profile
+echo "source ~/repos/configs/bash.git.sh" >> ~/.bash_profile
+exec bash -l
 ```
 
 ## vs-code.json
@@ -34,10 +34,11 @@ Overwrite `~/Library/Application\ Support/Code/User/settings.json`.
 
 ## git
 
+These are git options, not aliases (which are covered in `bash.git.sh` above.
 Overwrite `.gitconfig`.
 
 ```bash
-cp git ~/.gitconfig
+cp ~/repos/confits/git ~/.gitconfig
 ``
 
 ## vim
