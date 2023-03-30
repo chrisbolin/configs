@@ -1,6 +1,5 @@
 {
   "editor.fontSize": 14,
-  "window.zoomLevel": 1,
   "terminal.integrated.shell.osx": "/bin/bash", 
   "editor.quickSuggestions": {
     "other": true,
@@ -12,5 +11,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.tabSize": 2,
-  "terminal.integrated.defaultProfile.osx": "bash"
+  "terminal.integrated.defaultProfile.osx": "bash",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "window.zoomLevel": 1,
+  "remote.SSH.maxReconnectionAttempts": 2
 }
