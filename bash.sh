@@ -13,6 +13,6 @@ defaults write com.apple.screencapture location "~/Documents/screenshots/";
 alias restartsound="sudo launchctl stop com.apple.audio.coreaudiod && sudo launchctl start com.apple.audio.coreaudiod"
 
 # other aliases
-alias y='yarn'
 alias rmnodemodules='rm -r node_modules/'
+alias watch2='/Users/chris/repos/configs/utils/watch2'
 
