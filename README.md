@@ -23,8 +23,8 @@ git clone https://github.com/chrisbolin/configs
 ## bash.sh
 
 ```bash
-echo "source ~/repos/configs/bash.sh" > ~/.bash_profile
-echo "source ~/repos/configs/bash.git.sh" >> ~/.bash_profile
+echo -e "source ~/repos/configs/bash.sh" >> ~/.bash_profile
+echo -e "source ~/repos/configs/bash.git.sh" >> ~/.bash_profile
 exec bash -l
 ```
 
